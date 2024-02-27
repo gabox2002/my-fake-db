@@ -4,121 +4,161 @@
       "id": 1,
       "nombre": "Laptop",
       "descripcion": "Laptop de última generación",
-      "precio": 1200.00
+      "precio": 1200.00,
+      "palabras_claves": ["laptop", "portátil", "computadora"],
+      "marca": "Lenovo"
     },
     {
       "id": 2,
       "nombre": "Teléfono inteligente",
       "descripcion": "Teléfono con cámara de alta resolución",
-      "precio": 800.00
+      "precio": 800.00,
+      "palabras_claves": ["teléfono", "smartphone", "móvil"],
+      "marca": "Samsung"
     },
     {
       "id": 3,
       "nombre": "Tablet",
       "descripcion": "Tablet ligera y potente",
-      "precio": 500.00
+      "precio": 500.00,
+      "palabras_claves": ["tablet", "tableta", "dispositivo"],
+      "marca": "Apple"
     },
     {
       "id": 4,
       "nombre": "Auriculares inalámbricos",
       "descripcion": "Auriculares con cancelación de ruido",
-      "precio": 150.00
+      "precio": 150.00,
+      "palabras_claves": ["auriculares", "audio", "inalámbricos"],
+      "marca": "Sony"
     },
     {
       "id": 5,
       "nombre": "Smartwatch",
       "descripcion": "Reloj inteligente con seguimiento de actividad",
-      "precio": 200.00
+      "precio": 200.00,
+      "palabras_claves": ["smartwatch", "reloj inteligente", "reloj"],
+      "marca": "Apple"
     },
     {
       "id": 6,
       "nombre": "Cámara digital",
       "descripcion": "Cámara de alta resolución para fotografía",
-      "precio": 700.00
+      "precio": 700.00,
+      "palabras_claves": ["cámara", "fotografía", "digital"],
+      "marca": "Canon"
     },
     {
       "id": 7,
       "nombre": "Impresora multifunción",
       "descripcion": "Impresora que imprime, escanea y copia",
-      "precio": 300.00
+      "precio": 300.00,
+      "palabras_claves": ["impresora", "multifunción", "copiadora"],
+      "marca": "HP"
     },
     {
       "id": 8,
       "nombre": "Teclado mecánico",
       "descripcion": "Teclado para juegos con retroiluminación LED",
-      "precio": 100.00
+      "precio": 100.00,
+      "palabras_claves": ["teclado", "mecánico", "juegos"],
+      "marca": "Logitech"
     },
     {
       "id": 9,
       "nombre": "Mouse inalámbrico",
       "descripcion": "Mouse ergonómico con conectividad Bluetooth",
-      "precio": 50.00
+      "precio": 50.00,
+      "palabras_claves": ["mouse", "ratón", "inalámbrico"],
+      "marca": "Microsoft"
     },
     {
       "id": 10,
       "nombre": "Monitor curvo",
       "descripcion": "Monitor de alta resolución con diseño curvo",
-      "precio": 400.00
+      "precio": 400.00,
+      "palabras_claves": ["monitor", "pantalla", "curvo"],
+      "marca": "Samsung"
     },
     {
       "id": 11,
       "nombre": "Altavoces Bluetooth",
       "descripcion": "Altavoces portátiles con conexión inalámbrica",
-      "precio": 80.00
+      "precio": 80.00,
+      "palabras_claves": ["altavoces", "audio", "Bluetooth"],
+      "marca": "JBL"
     },
     {
       "id": 12,
       "nombre": "Disco duro externo",
       "descripcion": "Almacenamiento adicional para tus archivos",
-      "precio": 120.00
+      "precio": 120.00,
+      "palabras_claves": ["disco duro", "almacenamiento", "externo"],
+      "marca": "Seagate"
     },
     {
       "id": 13,
       "nombre": "Router WiFi",
       "descripcion": "Router de alta velocidad para redes domésticas",
-      "precio": 90.00
+      "precio": 90.00,
+      "palabras_claves": ["router", "WiFi", "red"],
+      "marca": "NETGEAR"
     },
     {
       "id": 14,
       "nombre": "Tarjeta gráfica",
       "descripcion": "Tarjeta gráfica para juegos y edición de video",
-      "precio": 300.00
+      "precio": 300.00,
+      "palabras_claves": ["tarjeta", "gráfica", "juegos"],
+      "marca": "AMD"
     },
     {
       "id": 15,
       "nombre": "Batería externa",
       "descripcion": "Batería portátil para cargar dispositivos móviles",
-      "precio": 40.00
+      "precio": 40.00,
+      "palabras_claves": ["batería", "portátil", "carga"],
+      "marca": "Anker"
     },
     {
       "id": 16,
       "nombre": "Funda para laptop",
       "descripcion": "Funda acolchada para proteger tu laptop",
-      "precio": 25.00
+      "precio": 25.00,
+      "palabras_claves": ["funda", "laptop", "protección"],
+      "marca": "Dell"
     },
     {
       "id": 17,
       "nombre": "Memoria USB",
       "descripcion": "Almacenamiento USB de alta velocidad",
-      "precio": 20.00
+      "precio": 20.00,
+      "palabras_claves": ["memoria USB", "almacenamiento", "USB"],
+      "marca": "Kingston"
     },
     {
       "id": 18,
       "nombre": "Soporte para teléfono",
       "descripcion": "Soporte ajustable para teléfonos móviles",
-      "precio": 15.00
+      "precio": 15.00,
+      "palabras_claves": ["soporte", "teléfono", "ajustable"],
+      "marca": "Logitech"
     },
     {
       "id": 19,
       "nombre": "Lámpara LED",
       "descripcion": "Lámpara de escritorio con luz regulable",
-      "precio": 30.00
+      "precio": 30.00,
+      "palabras_claves": ["lámpara", "LED", "escritorio"],
+      "marca": "Philips"
     },
     {
       "id": 20,
       "nombre": "Mochila para laptop",
       "descripcion": "Mochila resistente con compartimento para laptop",
-      "precio": 50.00
+      "precio": 50.00,
+      "palabras_claves": ["mochila", "laptop", "resistente"],
+      "marca": "HP"
     }
   ]
 }
