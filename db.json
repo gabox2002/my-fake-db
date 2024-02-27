@@ -6,8 +6,7 @@
       "descripcion": "Laptop de última generación",
       "precio": 1200.00,
       "marca": "Lenovo",
-      "imagen": "/images/laptop.png",
-      "palabras_claves": ["laptop", "portátil", "computadora"]
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/laptop.png",      "palabras_claves": ["laptop", "portátil", "computadora"]
       
     },
     {
@@ -16,7 +15,7 @@
       "descripcion": "Teléfono con cámara de alta resolución",
       "precio": 800.00,
       "marca": "Samsung",
-      "imagen": "/images/telefono.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/telefono.png",
       "palabras_claves": ["teléfono", "smartphone", "móvil"]
     },
     {
@@ -25,7 +24,7 @@
       "descripcion": "Tablet ligera y potente",
       "precio": 500.00,
       "marca": "Apple",
-      "imagen": "/images/tablet.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/tablet.png",
       "palabras_claves": ["tablet", "tableta", "dispositivo"]
     },
     {
@@ -34,7 +33,7 @@
       "descripcion": "Auriculares con cancelación de ruido",
       "precio": 150.00,
       "marca": "Sony",
-      "imagen": "/images/auriculares.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/auriculares.png",
       "palabras_claves": ["auriculares", "audio", "inalámbricos"]
     },
     {
@@ -43,7 +42,7 @@
       "descripcion": "Reloj inteligente con seguimiento de actividad",
       "precio": 200.00,
       "marca": "Apple",
-      "imagen": "/images/smartwatch.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/smartwatch.png",
       "palabras_claves": ["smartwatch", "reloj inteligente", "reloj"]
     },
     {
@@ -52,7 +51,7 @@
       "descripcion": "Cámara de alta resolución para fotografía",
       "precio": 700.00,
       "marca": "Canon",
-      "imagen": "/images/camara.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/camara.png",
       "palabras_claves": ["cámara", "fotografía", "digital"]
     },
     {
@@ -61,7 +60,7 @@
       "descripcion": "Impresora que imprime, escanea y copia",
       "precio": 300.00,
       "marca": "HP",
-      "imagen": "/images/impresora.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/impresora.png",
       "palabras_claves": ["impresora", "multifunción", "copiadora"]
     },
     {
@@ -70,7 +69,7 @@
       "descripcion": "Teclado para juegos con retroiluminación LED",
       "precio": 100.00,
       "marca": "Logitech",
-      "imagen": "/images/teclado.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/teclado.png",
       "palabras_claves": ["teclado", "mecánico", "juegos"]
     },
     {
@@ -79,7 +78,7 @@
       "descripcion": "Mouse ergonómico con conectividad Bluetooth",
       "precio": 50.00,
       "marca": "Microsoft",
-      "imagen": "/images/mouse.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/mouse.png",
       "palabras_claves": ["mouse", "ratón", "inalámbrico"]
     },
     {
@@ -88,7 +87,7 @@
       "descripcion": "Monitor de alta resolución con diseño curvo",
       "precio": 400.00,
       "marca": "Samsung",
-      "imagen": "/images/monitor.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/monitor.png",
       "palabras_claves": ["monitor", "pantalla", "curvo"]
     },
     {
@@ -97,7 +96,7 @@
       "descripcion": "Altavoces portátiles con conexión inalámbrica",
       "precio": 80.00,
       "marca": "JBL",
-      "imagen": "/images/altavoces.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/altavoces.png",
       "palabras_claves": ["altavoces", "audio", "Bluetooth"]
     },
     {
@@ -106,7 +105,7 @@
       "descripcion": "Almacenamiento adicional para tus archivos",
       "precio": 120.00,
       "marca": "Seagate",
-      "imagen": "/images/disco_duro.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/disco_duro.png",
       "palabras_claves": ["disco duro", "almacenamiento", "externo"]
     },
     {
@@ -115,7 +114,7 @@
       "descripcion": "Router de alta velocidad para redes domésticas",
       "precio": 90.00,
       "marca": "NETGEAR",
-      "imagen": "/images/router.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/router.png",
       "palabras_claves": ["router", "WiFi", "red"]
     },
     {
@@ -124,7 +123,7 @@
       "descripcion": "Tarjeta gráfica para juegos y edición de video",
       "precio": 300.00,
       "marca": "AMD",
-      "imagen": "/images/tarjeta_grafica.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/tarjeta_grafica.png",
       "palabras_claves": ["tarjeta", "gráfica", "juegos"]
     },
     {
@@ -133,7 +132,7 @@
       "descripcion": "Batería portátil para cargar dispositivos móviles",
       "precio": 40.00,
       "marca": "Anker",
-      "imagen": "/images/bateria.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/bateria.png",
       "palabras_claves": ["batería", "portátil", "carga"]
     },
     {
@@ -142,7 +141,7 @@
       "descripcion": "Funda acolchada para proteger tu laptop",
       "precio": 25.00,
       "marca": "Dell",
-      "imagen": "/images/funda.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/funda.png",
       "palabras_claves": ["funda", "laptop", "protección"]
     },
     {
@@ -151,7 +150,7 @@
       "descripcion": "Almacenamiento USB de alta velocidad",
       "precio": 20.00,
       "marca": "Kingston",
-      "imagen": "/images/memoria_usb.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/memoria_usb.png",
       "palabras_claves": ["memoria USB", "almacenamiento", "USB"]
     },
     {
@@ -160,7 +159,7 @@
       "descripcion": "Soporte ajustable para teléfonos móviles",
       "precio": 15.00,
       "marca": "Logitech",
-      "imagen": "/images/soporte.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/soporte.png",
       "palabras_claves": ["soporte", "teléfono", "ajustable"]
     },
     {
@@ -169,7 +168,7 @@
       "descripcion": "Lámpara de escritorio con luz regulable",
       "precio": 30.00,
       "marca": "Gandic",
-      "imagen": "/images/lampara.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/lampara.png",
       "palabras_claves": ["lámpara", "LED", "escritorio"]
     },
     {
@@ -178,7 +177,7 @@
       "descripcion": "Mochila resistente con compartimento para laptop",
       "precio": 50.00,
       "marca": "HP",
-      "imagen": "/images/mochila.png",
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/mochila.png",
       "palabras_claves": ["mochila", "laptop", "resistente"]
     }
   ]
