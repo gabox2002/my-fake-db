@@ -1,0 +1,124 @@
+{
+  "electro": [
+    {
+      "id": 1,
+      "nombre": "Laptop",
+      "descripcion": "Laptop de última generación",
+      "precio": 1200.00
+    },
+    {
+      "id": 2,
+      "nombre": "Teléfono inteligente",
+      "descripcion": "Teléfono con cámara de alta resolución",
+      "precio": 800.00
+    },
+    {
+      "id": 3,
+      "nombre": "Tablet",
+      "descripcion": "Tablet ligera y potente",
+      "precio": 500.00
+    },
+    {
+      "id": 4,
+      "nombre": "Auriculares inalámbricos",
+      "descripcion": "Auriculares con cancelación de ruido",
+      "precio": 150.00
+    },
+    {
+      "id": 5,
+      "nombre": "Smartwatch",
+      "descripcion": "Reloj inteligente con seguimiento de actividad",
+      "precio": 200.00
+    },
+    {
+      "id": 6,
+      "nombre": "Cámara digital",
+      "descripcion": "Cámara de alta resolución para fotografía",
+      "precio": 700.00
+    },
+    {
+      "id": 7,
+      "nombre": "Impresora multifunción",
+      "descripcion": "Impresora que imprime, escanea y copia",
+      "precio": 300.00
+    },
+    {
+      "id": 8,
+      "nombre": "Teclado mecánico",
+      "descripcion": "Teclado para juegos con retroiluminación LED",
+      "precio": 100.00
+    },
+    {
+      "id": 9,
+      "nombre": "Mouse inalámbrico",
+      "descripcion": "Mouse ergonómico con conectividad Bluetooth",
+      "precio": 50.00
+    },
+    {
+      "id": 10,
+      "nombre": "Monitor curvo",
+      "descripcion": "Monitor de alta resolución con diseño curvo",
+      "precio": 400.00
+    },
+    {
+      "id": 11,
+      "nombre": "Altavoces Bluetooth",
+      "descripcion": "Altavoces portátiles con conexión inalámbrica",
+      "precio": 80.00
+    },
+    {
+      "id": 12,
+      "nombre": "Disco duro externo",
+      "descripcion": "Almacenamiento adicional para tus archivos",
+      "precio": 120.00
+    },
+    {
+      "id": 13,
+      "nombre": "Router WiFi",
+      "descripcion": "Router de alta velocidad para redes domésticas",
+      "precio": 90.00
+    },
+    {
+      "id": 14,
+      "nombre": "Tarjeta gráfica",
+      "descripcion": "Tarjeta gráfica para juegos y edición de video",
+      "precio": 300.00
+    },
+    {
+      "id": 15,
+      "nombre": "Batería externa",
+      "descripcion": "Batería portátil para cargar dispositivos móviles",
+      "precio": 40.00
+    },
+    {
+      "id": 16,
+      "nombre": "Funda para laptop",
+      "descripcion": "Funda acolchada para proteger tu laptop",
+      "precio": 25.00
+    },
+    {
+      "id": 17,
+      "nombre": "Memoria USB",
+      "descripcion": "Almacenamiento USB de alta velocidad",
+      "precio": 20.00
+    },
+    {
+      "id": 18,
+      "nombre": "Soporte para teléfono",
+      "descripcion": "Soporte ajustable para teléfonos móviles",
+      "precio": 15.00
+    },
+    {
+      "id": 19,
+      "nombre": "Lámpara LED",
+      "descripcion": "Lámpara de escritorio con luz regulable",
+      "precio": 30.00
+    },
+    {
+      "id": 20,
+      "nombre": "Mochila para laptop",
+      "descripcion": "Mochila resistente con compartimento para laptop",
+      "precio": 50.00
+    }
+  ]
+}
