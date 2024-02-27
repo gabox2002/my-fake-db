@@ -6,7 +6,8 @@
       "descripcion": "Laptop de última generación",
       "precio": 1200.00,
       "marca": "Lenovo",
-      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/laptop.png",      "palabras_claves": ["laptop", "portátil", "computadora"]
+      "imagen": "https://raw.githubusercontent.com/gabox2002/my-fake-db/main/images/laptop.png",      
+      "palabras_claves": ["laptop", "portátil", "computadora"]
       
     },
     {
